@@ -1,0 +1,50 @@
+name: Update icon JSON
+
+on:
+  push:
+    paths:
+      - 'icon/**'
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install fs path
+
+    - name: Generate JSON file
+      run: |
+        node << 'EOF'
+        const fs = require('fs');
+        const path = require('path');
+        const iconDir = path.join(__dirname, '../../icon');
+        const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg') || file.endsWith('.svg'));
+
+        const iconData = files.map(file => {
+          return {
+            name: file,
+            url: `https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/${file}`
+          };
+        });
+
+        const jsonPath = path.join(__dirname, '../../icon.json');
+        fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
+        EOF
+
+    - name: Commit JSON file
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add icon.json
+        git commit -m "Update icon JSON"
+        git push
