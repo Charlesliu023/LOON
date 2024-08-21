@@ -27,7 +27,7 @@ jobs:
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
-        const iconDir = path.join(process.cwd(), 'icon');  // 修正路径
+        const iconDir = path.join(process.cwd(), 'icon');
         const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg') || file.endsWith('.svg'));
 
         const iconData = files.map(file => {
@@ -37,7 +37,7 @@ jobs:
           };
         });
 
-        const jsonPath = path.join(process.cwd(), 'icon.json');  // 修正路径
+        const jsonPath = path.join(process.cwd(), 'icon.json');
         fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
         EOF
 
@@ -48,3 +48,5 @@ jobs:
         git add icon.json
         git commit -m "Update icon JSON"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GITHUB_TOKEN 进行身份验证
