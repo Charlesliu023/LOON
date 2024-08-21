@@ -27,7 +27,7 @@ jobs:
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
-        const iconDir = path.join(__dirname, '../../icon');
+        const iconDir = path.join(process.cwd(), 'icon');  // 修正路径
         const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg') || file.endsWith('.svg'));
 
         const iconData = files.map(file => {
@@ -37,7 +37,7 @@ jobs:
           };
         });
 
-        const jsonPath = path.join(__dirname, '../../icon.json');
+        const jsonPath = path.join(process.cwd(), 'icon.json');  // 修正路径
         fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
         EOF
 
