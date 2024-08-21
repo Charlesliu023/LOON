@@ -32,8 +32,9 @@ jobs:
 
         const iconData = files.map(file => {
           return {
-            name: file,
-            url: `https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/${file}`
+            title: path.basename(file, path.extname(file)),  // 使用文件名作为标题
+            icon: `https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/${file}`,
+            url: "https://example.com"  // 如果有需要，可以替换为实际的URL
           };
         });
 
@@ -49,4 +50,4 @@ jobs:
         git commit -m "Update icon JSON"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GITHUB_TOKEN 进行身份验证
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
