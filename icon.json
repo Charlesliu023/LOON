@@ -1,7 +1,15 @@
 [
   {
+    "name": "Loon.png",
+    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Loon.png"
+  },
+  {
     "name": "Pillow.png",
     "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Pillow.png"
+  },
+  {
+    "name": "Telegram.png",
+    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Telegram.png"
   },
   {
     "name": "caipu.png",
@@ -24,7 +32,15 @@
     "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/sdds.png"
   },
   {
+    "name": "tieba.png",
+    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png"
+  },
+  {
     "name": "xptv.png",
     "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xptv.png"
+  },
+  {
+    "name": "youtube.png",
+    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/youtube.png"
   }
 ]
