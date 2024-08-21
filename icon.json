@@ -1,46 +1,57 @@
 [
   {
-    "name": "Loon.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Loon.png"
+    "title": "Loon",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Loon.png",
+    "url": "https://example.com"
   },
   {
-    "name": "Pillow.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Pillow.png"
+    "title": "Pillow",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Pillow.png",
+    "url": "https://example.com"
   },
   {
-    "name": "Telegram.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Telegram.png"
+    "title": "Telegram",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Telegram.png",
+    "url": "https://example.com"
   },
   {
-    "name": "caipu.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/caipu.png"
+    "title": "caipu",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/caipu.png",
+    "url": "https://example.com"
   },
   {
-    "name": "fandeng.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/fandeng.png"
+    "title": "fandeng",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/fandeng.png",
+    "url": "https://example.com"
   },
   {
-    "name": "ft.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/ft.png"
+    "title": "ft",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/ft.png",
+    "url": "https://example.com"
   },
   {
-    "name": "mtxx.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/mtxx.png"
+    "title": "mtxx",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/mtxx.png",
+    "url": "https://example.com"
   },
   {
-    "name": "sdds.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/sdds.png"
+    "title": "sdds",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/sdds.png",
+    "url": "https://example.com"
   },
   {
-    "name": "tieba.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png"
+    "title": "tieba",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png",
+    "url": "https://example.com"
   },
   {
-    "name": "xptv.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xptv.png"
+    "title": "xptv",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xptv.png",
+    "url": "https://example.com"
   },
   {
-    "name": "youtube.png",
-    "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/youtube.png"
+    "title": "youtube",
+    "icon": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/youtube.png",
+    "url": "https://example.com"
   }
 ]
