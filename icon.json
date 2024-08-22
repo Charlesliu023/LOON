@@ -1,4 +1,29 @@
 {
   "name": "Loon Icons",
-  "icons": []
+  "icons": [
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeChat.png"
+    },
+    {
+      "name": "loon.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/loon.png"
+    },
+    {
+      "name": "telegram-1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/telegram-1.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png"
+    },
+    {
+      "name": "xptv.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xptv.png"
+    },
+    {
+      "name": "youtube.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/youtube.png"
+    }
+  ]
 }
