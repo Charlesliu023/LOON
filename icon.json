@@ -2,8 +2,72 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "App Store.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/App Store.png"
+    },
+    {
+      "name": "Apple_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Apple_1.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Disney+.png"
+    },
+    {
+      "name": "Disney+_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Disney+_1.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Emby.png"
+    },
+    {
+      "name": "Epic_Games.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Epic_Games.png"
+    },
+    {
+      "name": "Gmail.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Gmail.png"
+    },
+    {
+      "name": "Google_Search.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google_Search.png"
+    },
+    {
+      "name": "HBO_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/HBO_1.png"
+    },
+    {
+      "name": "HBO_GO_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/HBO_GO_1.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Hulu.png"
+    },
+    {
+      "name": "Infuse.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Infuse.png"
+    },
+    {
+      "name": "Infuse_7.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Infuse_7.png"
+    },
+    {
+      "name": "Mail.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Mail.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Netease_Music.png"
+    },
+    {
       "name": "Netflix.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Netflix.png"
+    },
+    {
+      "name": "PayPal.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/PayPal.png"
     },
     {
       "name": "Prime_Video.png",
@@ -16,6 +80,10 @@
     {
       "name": "Steam.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Steam.png"
+    },
+    {
+      "name": "Taobao.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Taobao.png"
     },
     {
       "name": "TikTok_1.png",
