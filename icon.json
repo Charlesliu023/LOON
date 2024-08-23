@@ -2,16 +2,72 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Netflix.png"
+    },
+    {
+      "name": "Prime_Video.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Prime_Video.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/QQ.png"
+    },
+    {
+      "name": "Steam.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Steam.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TikTok.png"
+    },
+    {
+      "name": "TikTok_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TikTok_1.png"
+    },
+    {
       "name": "WeChat.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeChat.png"
+    },
+    {
+      "name": "WeChat_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeChat_1.png"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeTV.png"
+    },
+    {
+      "name": "Weibo.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Weibo.png"
+    },
+    {
+      "name": "X.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/X.png"
     },
     {
       "name": "XPTV1.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/XPTV1.png"
     },
     {
+      "name": "Xbox.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Xbox.png"
+    },
+    {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/apple.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/bilibili.png"
+    },
+    {
+      "name": "bilibili_3.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/bilibili_3.png"
+    },
+    {
+      "name": "bilibili_4.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/bilibili_4.png"
     },
     {
       "name": "caipu.png",
@@ -20,6 +76,10 @@
     {
       "name": "ftzww.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/ftzww.png"
+    },
+    {
+      "name": "iCloud.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/iCloud.png"
     },
     {
       "name": "loon.png",
