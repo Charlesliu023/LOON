@@ -30,6 +30,22 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Apple_1.png"
     },
     {
+      "name": "Baidu.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Baidu.png"
+    },
+    {
+      "name": "Baiduwp.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Baiduwp.png"
+    },
+    {
+      "name": "Baiduwp_1.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Baiduwp_1.png"
+    },
+    {
+      "name": "Bdmap.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bdmap.png"
+    },
+    {
       "name": "Bilibili.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bilibili.png"
     },
@@ -164,6 +180,10 @@
     {
       "name": "Telegram_1.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Telegram_1.png"
+    },
+    {
+      "name": "Tieba.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Tieba.png"
     },
     {
       "name": "TikTok.png",
