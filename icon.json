@@ -2,6 +2,10 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "Adblock.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Adblock.png"
+    },
+    {
       "name": "App Store.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/App Store.png"
     },
@@ -112,10 +116,6 @@
     {
       "name": "Xbox.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Xbox.png"
-    },
-    {
-      "name": "adblock.png",
-      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/adblock.png"
     },
     {
       "name": "adblocker_10.png",
