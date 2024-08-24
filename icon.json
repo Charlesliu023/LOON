@@ -146,6 +146,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeTV.png"
     },
     {
+      "name": "Wechat.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Wechat.png"
+    },
+    {
       "name": "Wechat_1.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Wechat_1.png"
     },
@@ -168,10 +172,6 @@
     {
       "name": "tieba.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png"
-    },
-    {
-      "name": "wechat.png",
-      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/wechat.png"
     },
     {
       "name": "xmly.png",
