@@ -42,10 +42,6 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Apple_1.png"
     },
     {
-      "name": "Baidu Cloud.png",
-      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Baidu Cloud.png"
-    },
-    {
       "name": "Bilibili.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bilibili.png"
     },
@@ -260,6 +256,10 @@
     {
       "name": "Tencent.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Tencent.png"
+    },
+    {
+      "name": "TeraBox.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TeraBox.png"
     },
     {
       "name": "Threads.png",
