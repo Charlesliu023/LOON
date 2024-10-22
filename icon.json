@@ -298,8 +298,16 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Uc.png"
     },
     {
+      "name": "WPS.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WPS.png"
+    },
+    {
       "name": "WeTV.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WeTV.png"
+    },
+    {
+      "name": "Weather.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Weather.png"
     },
     {
       "name": "Wechat Pay.png",
