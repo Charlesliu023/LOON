@@ -2,8 +2,40 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "Alipan.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Alipan.png"
+    },
+    {
       "name": "Initium Media.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Initium Media.png"
+    },
+    {
+      "name": "Listenify.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Listenify.png"
+    },
+    {
+      "name": "NetEase Music.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/NetEase Music.png"
+    },
+    {
+      "name": "Poster Maker.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Poster Maker.png"
+    },
+    {
+      "name": "TieBa.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TieBa.png"
+    },
+    {
+      "name": "Weather.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Weather.png"
+    },
+    {
+      "name": "XPTV.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/XPTV.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/YouTube.png"
     }
   ]
 }
