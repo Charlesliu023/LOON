@@ -1,4 +1,9 @@
 {
   "name": "Loon Icons",
-  "icons": []
+  "icons": [
+    {
+      "name": "Initium Media.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Initium Media.png"
+    }
+  ]
 }
