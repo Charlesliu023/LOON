@@ -1,11 +1,15 @@
 [Script]
 # 插件名称
 name = 自用规则
-
 # 插件描述
-desc = 包含XPTV常用的直连规则， Emby 特定规则和一般常用规则。
+desc = 包含常用的直连规则、Emby特定规则等。
 
 [Rule]
+# XPTV探索页（豆瓣资源）
 DOMAIN-SUFFIX,doubanio.com,DIRECT
+
+# 木偶哥哥（直连）
 DOMAIN-SUFFIX,mogg.top,DIRECT
-DOMAIN,nanflix.net,select 香港节点
+
+# Emby链接（直连）
+DOMAIN,nanflix.net,香港节点
