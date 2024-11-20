@@ -1,10 +1,5 @@
-[General]
-name = 自用规则
-desc = 包含XPTV常用规则、Emby 资源及其他链接规则的插件，用于 Loon 网络代理配置。
-author = Charlesliu023
-version = 1.0.0
-updateTime = 2024-11-21 00:37:00
-homepage = https://github.com/Charlesliu023/LOON
+#!name = 自用规则
+#!desc = 包含XPTV常用规则、Emby 资源及其他链接规则的插件，用于 Loon 网络代理配置。
 
 [Rule]
 # XPTV探索页
