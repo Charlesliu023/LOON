@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,mogg.top,DIRECT
 
 # Emby链接（直连）
 DOMAIN,nanflix.net,香港节点
+
+# 防止Telegram加载转圈
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
