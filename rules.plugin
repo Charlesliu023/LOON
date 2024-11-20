@@ -1,0 +1,11 @@
+[Script]
+# 插件名称
+name = 自用规则
+
+# 插件描述
+desc = 包含XPTV常用的直连规则， Emby 特定规则和一般常用规则。
+
+[Rule]
+DOMAIN-SUFFIX,doubanio.com,DIRECT
+DOMAIN-SUFFIX,mogg.top,DIRECT
+DOMAIN,nanflix.net,select 香港节点
