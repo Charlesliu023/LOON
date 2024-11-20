@@ -54,6 +54,14 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Initium Media.png"
     },
     {
+      "name": "Internet.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Internet.png"
+    },
+    {
+      "name": "JiaKao BaoDian.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/JiaKao BaoDian.png"
+    },
+    {
       "name": "Listenify.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Listenify.png"
     },
@@ -76,6 +84,10 @@
     {
       "name": "Pillow.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Pillow.png"
+    },
+    {
+      "name": "PinDD.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/PinDD.png"
     },
     {
       "name": "Poster Maker.png",
