@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,doubanio.com,DIRECT
 # 木偶哥哥直接
 DOMAIN-SUFFIX,mogg.top,DIRECT
 # Emby链接
-DOMAIN,nanflix.net,德国【家宽】
+DOMAIN,nanflix.net,Emby 服
 # 防止Telegram加载转圈
 IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
