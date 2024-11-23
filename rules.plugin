@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,mogg.top,DIRECT
 DOMAIN,nanflix.net,Emby 服
 # 防止Telegram加载转圈
 IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+# 小纸条直连
+DOMAIN-SUFFIX,gitcafe.ink,DIRECT
