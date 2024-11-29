@@ -1,13 +1,20 @@
 #!name=自用规则
 #!desc=包含XPTV常用规则、Emby 资源及其他链接规则的插件
 [Rule]
-# XPTV探索页
+# 直连规则
+## XPTV探索页
 DOMAIN-SUFFIX,doubanio.com,DIRECT
-# 木偶哥哥直接
+## 木偶哥哥
 DOMAIN-SUFFIX,mogg.top,DIRECT
-# Emby链接
-DOMAIN,nanflix.net,Emby 服
-# 防止Telegram加载转圈
-IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
 # 小纸条直连
 DOMAIN-SUFFIX,gitcafe.ink,DIRECT
+
+# 拦截规则
+## app诊断回传
+DOMAIN,in.appcenter.ms,REJECT
+## 防止Telegram加载转圈
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+
+# 其他规则
+## Emby链接
+DOMAIN,nanflix.net,Emby 服
