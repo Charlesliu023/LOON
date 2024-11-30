@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,mogg.top,DIRECT
 DOMAIN-SUFFIX,gitcafe.ink,DIRECT
 
 # 拦截规则
-## app诊断回传
-DOMAIN,in.appcenter.ms,REJECT
 ## 防止Telegram加载转圈
 IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
 
