@@ -20,5 +20,5 @@ IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
 DOMAIN,nanflix.net,Emby 服
 ## TMDB规则
 DOMAIN-SUFFIX,themoviedb.org,兜底节点
-## TMDB图像规则
 DOMAIN,image.tmdb.org,兜底节点
+DOMAIN-SUFFIX,tmdb.org,兜底节点
