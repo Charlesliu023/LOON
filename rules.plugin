@@ -6,8 +6,10 @@
 DOMAIN-SUFFIX,doubanio.com,DIRECT
 ## 木偶哥哥
 DOMAIN-SUFFIX,mogg.top,DIRECT
-# 小纸条直连
+## 小纸条
 DOMAIN-SUFFIX,gitcafe.ink,DIRECT
+## 友号吧
+DOMAIN,zu.hao8.top,DIRECT
 
 # 拦截规则
 ## 防止Telegram加载转圈
