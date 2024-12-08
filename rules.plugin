@@ -24,3 +24,4 @@ DOMAIN,nanflix.net,Emby 服
 DOMAIN-SUFFIX,themoviedb.org,兜底节点
 DOMAIN-SUFFIX,tmdb.org,兜底节点
 DOMAIN,image.tmdb.org,兜底节点
+DOMAIN-SUFFIX,thetvdb.com,兜底节点
