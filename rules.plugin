@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,gitcafe.ink,DIRECT
 ## 4KAV
 DOMAIN-SUFFIX,4k-av.com,DIRECT
 
-## 友号吧
-DOMAIN,zu.hao8.top,DIRECT
-
 # 拦截规则
 ## 防止Telegram加载转圈
 IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
@@ -21,8 +18,14 @@ IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
 DOMAIN,in.appcenter.ms,REJECT
 
 # 其他规则
+# #禁用STUN，避免一些P2P请求，防止应用白嫖上传
+AND,((PROTOCOL, STUN), (DOMAIN-KEYWORD, bilibili.)),REJECT
 ## TMDB规则
 DOMAIN-SUFFIX,themoviedb.org,兜底节点
 DOMAIN-SUFFIX,tmdb.org,兜底节点
 DOMAIN,image.tmdb.org,兜底节点
 DOMAIN-SUFFIX,thetvdb.com,兜底节点
+## 友号吧
+DOMAIN,zu.hao8.top,DIRECT
+## ouo emby节点
+DOMAIN,random.ouonet.org,香港节点
