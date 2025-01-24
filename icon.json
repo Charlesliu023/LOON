@@ -2,12 +2,32 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "amap.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/amap.png"
+    },
+    {
       "name": "connect.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/connect.png"
     },
     {
       "name": "internet.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/internet.png"
+    },
+    {
+      "name": "netdisk.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/netdisk.png"
+    },
+    {
+      "name": "rednote.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/rednote.png"
+    },
+    {
+      "name": "wechat.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/wechat.png"
+    },
+    {
+      "name": "workvivo.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/workvivo.png"
     }
   ]
 }
