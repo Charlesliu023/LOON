@@ -1,4 +1,13 @@
 {
   "name": "Loon Icons",
-  "icons": []
+  "icons": [
+    {
+      "name": "connect.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/connect.png"
+    },
+    {
+      "name": "internet.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/internet.png"
+    }
+  ]
 }
