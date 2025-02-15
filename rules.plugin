@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,gitcafe.ink,DIRECT
 ## 4KAV
 DOMAIN-SUFFIX,4k-av.com,DIRECT
 ## 音海拾贝
-DOMAIN-SUFFIX,makifix.com,DIRECT
+DOMAIN,music.makifix.com,DIRECT
 
 # 拦截规则
 ## 防止Telegram加载转圈
