@@ -15,8 +15,6 @@ DOMAIN,music.makifx.com,DIRECT
 
 
 # 拦截规则
-## 防止Telegram加载转圈
-IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
 ## 应用软件诊断数据回传
 DOMAIN,in.appcenter.ms,REJECT
 
