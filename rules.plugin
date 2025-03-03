@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,mogg.top,DIRECT
 DOMAIN-SUFFIX,gitcafe.ink,DIRECT
 ## 4KAV
 DOMAIN-SUFFIX,4k-av.com,DIRECT
+## 音海拾贝
+DOMAIN,music.makifx.com,DIRECT
 
 
 # 拦截规则
@@ -28,5 +30,3 @@ DOMAIN,image.tmdb.org,兜底节点
 DOMAIN-SUFFIX,thetvdb.com,兜底节点
 ## 友号吧
 DOMAIN,zu.hao8.top,DIRECT
-## 音海拾贝
-DOMAIN,music.makifx.com,香港节点
