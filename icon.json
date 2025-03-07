@@ -106,6 +106,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tieba.png"
     },
     {
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/tiktok.png"
+    },
+    {
       "name": "ublock.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/ublock.png"
     },
@@ -130,12 +134,24 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/wps.png"
     },
     {
+      "name": "xmly.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xmly.png"
+    },
+    {
       "name": "xptv.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/xptv.png"
     },
     {
+      "name": "yiyue.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/yiyue.png"
+    },
+    {
       "name": "youtube.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/youtube.png"
+    },
+    {
+      "name": "zhihu.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/zhihu.png"
     }
   ]
 }
