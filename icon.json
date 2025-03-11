@@ -62,6 +62,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/internet.png"
     },
     {
+      "name": "jiakao.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/jiakao.png"
+    },
+    {
       "name": "listenify.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/listenify.png"
     },
@@ -86,12 +90,20 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/netflix.png"
     },
     {
+      "name": "pdd.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/pdd.png"
+    },
+    {
       "name": "qqmusic.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/qqmusic.png"
     },
     {
       "name": "rednote.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/rednote.png"
+    },
+    {
+      "name": "scanner.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/scanner.png"
     },
     {
       "name": "spotify.png",
