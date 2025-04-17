@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,4k-av.com,DIRECT
 DOMAIN,music.makifx.com,DIRECT
 ## 雷鲸小站
 DOMAIN,www.leijing.xyz,DIRECT
+## Claw Cloud Run服务器
+DOMAIN,sbmfplbs.ap-southeast-1.clawcloudrun.com,DIRECT
+
 
 
 # 拦截规则
