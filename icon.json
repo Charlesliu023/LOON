@@ -2,6 +2,10 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/HK.png"
+    },
+    {
       "name": "adBlock.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/adBlock.png"
     },
