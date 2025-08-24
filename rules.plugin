@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,4k-av.com,DIRECT
 ## 音海拾贝
 DOMAIN,music.makifx.com,DIRECT
 ## 雷鲸小站
-DOMAIN,www.leijing.xyz,DIRECT
+DOMAIN-KEYWORD,www.leijing,DIRECT
 ## Claw Cloud Run服务器
 DOMAIN,sbmfplbs.ap-southeast-1.clawcloudrun.com,DIRECT
 
@@ -27,7 +27,7 @@ DOMAIN,in.appcenter.ms,REJECT
 ## 禁用STUN，避免一些P2P请求，防止应用白嫖上传
 AND,((PROTOCOL, STUN), (DOMAIN-KEYWORD, bilibili.)),REJECT
 ## 雷鲸小站
-DOMAIN-KEYWORD,leijing,兜底策略
+#DOMAIN-KEYWORD,leijing,兜底策略
 ## TMDB规则
 DOMAIN-SUFFIX,themoviedb.org,兜底策略
 DOMAIN-SUFFIX,tmdb.org,兜底策略
@@ -35,4 +35,5 @@ DOMAIN,image.tmdb.org,兜底策略
 DOMAIN-SUFFIX,thetvdb.com,兜底策略
 ## 友号吧
 DOMAIN,zu.hao8.top,DIRECT
+
 
