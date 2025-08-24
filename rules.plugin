@@ -3,17 +3,9 @@
 [Rule]
 # 直连规则
 ## XPTV探索页
-DOMAIN-SUFFIX,doubanio.com,DIRECT
-## 木偶哥哥
-DOMAIN-SUFFIX,mogg.top,DIRECT
-## 小纸条
-DOMAIN-SUFFIX,gitcafe.ink,DIRECT
-## 4KAV
-DOMAIN-SUFFIX,4k-av.com,DIRECT
-## 音海拾贝
-DOMAIN,music.makifx.com,DIRECT
+#DOMAIN-SUFFIX,doubanio.com,DIRECT
 ## 雷鲸小站
-DOMAIN-KEYWORD,www.leijing,DIRECT
+DOMAIN-KEYWORD,leijing,DIRECT
 ## Claw Cloud Run服务器
 DOMAIN,sbmfplbs.ap-southeast-1.clawcloudrun.com,DIRECT
 
@@ -35,5 +27,6 @@ DOMAIN,image.tmdb.org,兜底策略
 DOMAIN-SUFFIX,thetvdb.com,兜底策略
 ## 友号吧
 DOMAIN,zu.hao8.top,DIRECT
+
 
 
