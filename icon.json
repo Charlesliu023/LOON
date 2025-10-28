@@ -2,8 +2,32 @@
   "name": "Loon Icons",
   "icons": [
     {
+      "name": "CHN.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/CHN.png"
+    },
+    {
       "name": "EU.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/EU.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/HK.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/JP.png"
+    },
+    {
+      "name": "KOR.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/KOR.png"
+    },
+    {
+      "name": "SGP.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/SGP.png"
+    },
+    {
+      "name": "USA.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/USA.png"
     }
   ]
 }
