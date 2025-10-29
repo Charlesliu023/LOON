@@ -58,6 +58,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bodian Music.png"
     },
     {
+      "name": "CHN.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/CHN.png"
+    },
+    {
       "name": "CapCut.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/CapCut.png"
     },
@@ -88,6 +92,18 @@
     {
       "name": "Douyin.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Douyin.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/EU.png"
+    },
+    {
+      "name": "Earth-2.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Earth-2.png"
+    },
+    {
+      "name": "Earth.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Earth.png"
     },
     {
       "name": "Emby.png",
@@ -130,6 +146,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Drive.png"
     },
     {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/HK.png"
+    },
+    {
       "name": "Home Assistant.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Home Assistant.png"
     },
@@ -148,6 +168,14 @@
     {
       "name": "Internet.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Internet.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/JP.png"
+    },
+    {
+      "name": "KOR.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/KOR.png"
     },
     {
       "name": "Kugou.png",
@@ -234,6 +262,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Reflix.png"
     },
     {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/SG.png"
+    },
+    {
       "name": "SenPlayer.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/SenPlayer.png"
     },
@@ -280,6 +312,10 @@
     {
       "name": "TikTok.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TikTok.png"
+    },
+    {
+      "name": "USA.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/USA.png"
     },
     {
       "name": "Ulearn Player.png",
