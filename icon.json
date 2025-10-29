@@ -118,6 +118,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Emby.png"
     },
     {
+      "name": "Excel.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Excel.png"
+    },
+    {
       "name": "Facebook.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Facebook.png"
     },
@@ -152,6 +156,10 @@
     {
       "name": "Google Drive.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Drive.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google.png"
     },
     {
       "name": "HK.png",
@@ -246,8 +254,16 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Player.png"
     },
     {
+      "name": "PowerPoint.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/PowerPoint.png"
+    },
+    {
       "name": "QQ.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/QQ.png"
+    },
+    {
+      "name": "QQMusic.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/QQMusic.png"
     },
     {
       "name": "QQRead.png",
@@ -322,6 +338,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TikTok.png"
     },
     {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/UK.png"
+    },
+    {
       "name": "USA.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/USA.png"
     },
@@ -362,6 +382,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WhatsApp.png"
     },
     {
+      "name": "Word.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Word.png"
+    },
+    {
       "name": "X.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/X.png"
     },
@@ -392,6 +416,10 @@
     {
       "name": "YouTube.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/YouTube.png"
+    },
+    {
+      "name": "Youku.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Youku.png"
     },
     {
       "name": "Zhihu.png",
