@@ -98,6 +98,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/BD Map.png"
     },
     {
+      "name": "BUS.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/BUS.png"
+    },
+    {
       "name": "Baidu.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Baidu.png"
     },
@@ -146,6 +150,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Cainiao.png"
     },
     {
+      "name": "Canva.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Canva.png"
+    },
+    {
       "name": "CapCut.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/CapCut.png"
     },
@@ -168,6 +176,10 @@
     {
       "name": "Cotti Coffee.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Cotti Coffee.png"
+    },
+    {
+      "name": "DJI.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/DJI.png"
     },
     {
       "name": "DNS Inspector.png",
@@ -274,8 +286,32 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Assistant.png"
     },
     {
+      "name": "Google Cloud.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Cloud.png"
+    },
+    {
       "name": "Google Drive.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Drive.png"
+    },
+    {
+      "name": "Google Maps.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Maps.png"
+    },
+    {
+      "name": "Google Meet.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Meet.png"
+    },
+    {
+      "name": "Google Photos.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Photos.png"
+    },
+    {
+      "name": "Google Translate.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Translate.png"
+    },
+    {
+      "name": "Google Voice.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Google Voice.png"
     },
     {
       "name": "Google.png",
@@ -386,6 +422,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Lightroom.png"
     },
     {
+      "name": "Link to Windows.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Link to Windows.png"
+    },
+    {
       "name": "LinkCube.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/LinkCube.png"
     },
@@ -486,6 +526,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Paramount.png"
     },
     {
+      "name": "PayPal.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/PayPal.png"
+    },
+    {
       "name": "Peacock TV.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Peacock TV.png"
     },
@@ -516,6 +560,10 @@
     {
       "name": "Privacy.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Privacy.png"
+    },
+    {
+      "name": "Procreate.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Procreate.png"
     },
     {
       "name": "QQ.png",
@@ -624,6 +672,10 @@
     {
       "name": "Steam.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Steam.png"
+    },
+    {
+      "name": "Surge.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Surge.png"
     },
     {
       "name": "Swiftgram.png",
@@ -746,6 +798,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/WhatsApp.png"
     },
     {
+      "name": "Windows.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Windows.png"
+    },
+    {
       "name": "Word 2025.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Word 2025.png"
     },
@@ -808,6 +864,10 @@
     {
       "name": "ZhishiXQ.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/ZhishiXQ.png"
+    },
+    {
+      "name": "eBay.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/eBay.png"
     },
     {
       "name": "iCloud.png",
