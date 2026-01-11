@@ -126,6 +126,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bing.png"
     },
     {
+      "name": "Bitcoin.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bitcoin.png"
+    },
+    {
       "name": "Bitqiu.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bitqiu.png"
     },
@@ -134,8 +138,16 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bodian Music.png"
     },
     {
+      "name": "Brave.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Brave.png"
+    },
+    {
       "name": "Bus.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bus.png"
+    },
+    {
+      "name": "Bybit.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Bybit.png"
     },
     {
       "name": "CHN.png",
@@ -164,6 +176,10 @@
     {
       "name": "Chatbot.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Chatbot.png"
+    },
+    {
+      "name": "Chrome.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Chrome.png"
     },
     {
       "name": "Conflux.png",
@@ -230,6 +246,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/EU.png"
     },
     {
+      "name": "Edge.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Edge.png"
+    },
+    {
       "name": "Emby.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Emby.png"
     },
@@ -256,6 +276,10 @@
     {
       "name": "Filebar.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Filebar.png"
+    },
+    {
+      "name": "Firefox.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Firefox.png"
     },
     {
       "name": "FnOS.png",
@@ -510,6 +534,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Nexitally.png"
     },
     {
+      "name": "OKX.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/OKX.png"
+    },
+    {
       "name": "Obsidian.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Obsidian.png"
     },
@@ -626,6 +654,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/SG.png"
     },
     {
+      "name": "Safari.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Safari.png"
+    },
+    {
       "name": "SenPlayer.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/SenPlayer.png"
     },
@@ -702,6 +734,10 @@
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TIM.png"
     },
     {
+      "name": "TOR.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TOR.png"
+    },
+    {
       "name": "TaoPP.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/TaoPP.png"
     },
@@ -732,6 +768,10 @@
     {
       "name": "Tencent Video.png",
       "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Tencent Video.png"
+    },
+    {
+      "name": "Three.png",
+      "url": "https://raw.githubusercontent.com/Charlesliu023/LOON/main/icon/Three.png"
     },
     {
       "name": "TickTick.png",
